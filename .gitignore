@@ -1,0 +1,19 @@
+# Unity
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Buildexe/
+/Logs/
+/obj/
+/UserSettings/
+
+# User-specific files
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.svd
+.DS_Store
+Thumbs.db
